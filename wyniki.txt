@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+null
+Wynik uzytkownika o niu: bbb wynosi  1
+Wynik uzytkownika o niu: aaa wynosi  0
+Wynik uzytkownika o niu: ee wynosi  3
+Wynik uzytkownika o niu: aa wynosi  0
+Wynik uzytkownika o niu: ania wynosi  2
+Wynik uzytkownika o niu: ola wynosi  0
+Wynik uzytkownika o niu: 123 wynosi  1
+Wynik uzytkownika o niu: 321 wynosi  1
+Wynik uzytkownika o niu: 1234 wynosi  3
